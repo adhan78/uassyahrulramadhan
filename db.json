@@ -1,0 +1,8 @@
+
+{
+  "foods": [
+    { "id": 1, "name": "Nasi Goreng", "price": 15000 },
+    { "id": 2, "name": "Mie Ayam", "price": 12000 },
+    { "id": 3, "name": "Ayam Geprek", "price": 17000 }
+  ]
+}
